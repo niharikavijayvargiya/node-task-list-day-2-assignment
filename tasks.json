@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Project",
+    "completed": true
+  },
+  {
+    "description": "Buy grocery",
+    "completed": false
+  },
+  {
+    "description": "complete assignment",
+    "completed": true
+  }
+]
